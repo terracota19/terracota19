@@ -3,5 +3,5 @@
 ## Programming Languages
   <img src = 'assets/Programming-Languages/c-original.svg' width='30'/> <img 
   src = 'assets/Programming-Languages/cpp.svg' width='30'/> <img 
-  src = 'assets/Programming-Languages/python.png' height='30'/> <img 
+  src = 'assets/Programming-Languages/python.svg' height='30'/> <img 
   src='assets/Programming-Languages/java.svg' width='30'/> 
