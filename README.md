@@ -14,5 +14,6 @@
 
 ## CyberTools
    <img src = 'assets/metasploit.png' width='30'/> <img 
+   src ='assets/kali.png' width='30'/> <img 
    src ='assets/dfir-iris.png' width='30'/> 
    
