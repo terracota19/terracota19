@@ -13,5 +13,6 @@
   src='assets/Programming-Languages/java.svg' width='30'/> 
 
 ## CyberTools
-   <img src = 'assets/metasploit.png' width='30'/> <img src = 'assets/nmap.png' width='30'/>
+   <img src = 'assets/metasploit.png' width='30'/> <img 
+   src = 'assets/dfir-iris.png' width='30'/>
    
