@@ -16,5 +16,7 @@
    <img src = 'assets/metasploit.png' width='30'/> <img 
    src ='assets/kali.png' width='30'/> <img 
    src ='assets/dfir-iris.png' width='30'/> <img 
-   src ='assets/burp-suite.png' width='30'/> 
+   src ='assets/burp-suite.png' width='30'/> <img 
+   src ='assets/nmap.png' width='30'/> <img 
+   src ='assets/volatility.png' width='30'/>
    
