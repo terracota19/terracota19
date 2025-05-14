@@ -13,12 +13,12 @@
   src='assets/Programming-Languages/java.svg' width='30'/> 
 
 ## CyberTools
-   <img src = 'assets/metasploit.png' width='30'/> <img 
+   <img src = 'assets/snyk.png' width='30'/> <img 
    src ='assets/kali.png' width='30'/> <img 
    src ='assets/dfir-iris.png' width='30'/> <img 
    src ='assets/burp-suite.png' width='30'/> <img 
    src ='assets/nmap.png' width='30'/> <img 
    src ='assets/volatility.png' width='30'/> <img 
    src ='assets/Frida.png' width='30'/> <img 
-   src ='assets/snyk.png' width='30'/>
+   src ='assets/metasploit.png' width='30'/>
    
