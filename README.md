@@ -19,5 +19,6 @@
    src ='assets/burp-suite.png' width='30'/> <img 
    src ='assets/nmap.png' width='30'/> <img 
    src ='assets/volatility.png' width='30'/> <img 
-   src ='assets/Frida.png' width='30'/>
+   src ='assets/Frida.png' width='30'/> <img 
+   src ='assets/snyk.png' width='30'/>
    
