@@ -22,3 +22,5 @@
    src ='assets/Frida.png' width='30'/> <img 
    src ='assets/metasploit.png' width='30'/>
    
+## CyberDefenders
+ <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/j.parragonzalez17.png" alt="CyberDefenders Badge" width="300" />
